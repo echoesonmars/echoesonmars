@@ -1,8 +1,10 @@
 # privet
 
+currently working on musical project for lefties: [leftly.xyz](https://leftly.xyz)
+
 [![My Skills](https://skillicons.dev/icons?i=photoshop,figma,illustrator,mongodb,python,cpp,javascript,html,css,tailwindcss,nextjs,react,nodejs,typescript)](https://skillicons.dev)
 
-🎵 currently working on musical project for lefties: leftly.xyz
+
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echoesonmars&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
