@@ -2,8 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=photoshop,figma,illustrator,mongodb,python,cpp,javascript,html,css,tailwindcss,nextjs,react,nodejs,typescript)](https://skillicons.dev)
 
-🎵 Currently Working On
-leftly.xyz - A musical project designed specifically for left-handed musicians. Making music creation more accessible and intuitive for lefties.
+🎵 currently working on musical project for lefties: leftly.xyz
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echoesonmars&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
