@@ -4,6 +4,9 @@
 - autmation platform for retailers: wiki
 - musical project for lefties: [leftly.xyz](https://leftly.xyz)
 
+<div align="center">
+  <b>Bold HTML</b>
+</div>
 
 other projects
 
