@@ -8,6 +8,10 @@
   <b>Bold HTML</b>
 </div>
 
+## DETAILS / SUMMARY (GITHUB)
+<details>
+<summary>Click</summary>
+
 other projects
 
 
