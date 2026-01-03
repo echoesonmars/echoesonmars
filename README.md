@@ -1,8 +1,8 @@
 # privet
 
 currently building:
-autmation platform for retailers: wiki
-musical project for lefties: [leftly.xyz](https://leftly.xyz)
+- autmation platform for retailers: wiki
+- musical project for lefties: [leftly.xyz](https://leftly.xyz)
 
 
 other projects
