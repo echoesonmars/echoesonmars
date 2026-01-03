@@ -4,6 +4,9 @@
 - autmation platform for retailers: wiki
 - musical project for lefties: [leftly.xyz](https://leftly.xyz)
 
+## INLINE CODE
+`inline code`
+
 
 [![My Skills](https://skillicons.dev/icons?i=photoshop,figma,illustrator,mongodb,python,cpp,javascript,html,css,tailwindcss,nextjs,react,nodejs,typescript)](https://skillicons.dev)
 
