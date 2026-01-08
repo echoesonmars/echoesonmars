@@ -1,5 +1,5 @@
 # 👋privet
-- lalala
+> lalala
 
 ### 🚀currently building:
 - automation platform for retailers: wiki
