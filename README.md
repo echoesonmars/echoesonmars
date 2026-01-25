@@ -1,5 +1,7 @@
 # 👋privet
-> 
+>
+![Public Repos](https://img.shields.io/badge/Public_Repos-12-blue?style=for-the-badge&logo=github)
+![Private Repos](https://img.shields.io/badge/Private_Repos-24-red?style=for-the-badge&logo=github)
 
 ### 🚀currently building:
 - automation platform for retailers: wiki
