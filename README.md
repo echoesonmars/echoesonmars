@@ -1,5 +1,5 @@
 # 👋privet
-> lalala
+> ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=radial)
 
 ### 🚀currently building:
 - automation platform for retailers: wiki
