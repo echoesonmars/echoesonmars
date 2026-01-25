@@ -1,9 +1,5 @@
 # 👋privet
->
-| Тип репозитория | Количество |
-| :--- | :---: |
-| 🌍 **Public** | `15` |
-| 🔒 **Private** | `42` |
+> baba o riley
 
 ### 🚀currently building:
 - automation platform for retailers: wiki
