@@ -1,6 +1,11 @@
 # 👋privet
 >
-![GitHub Metrics](https://metrics.lecoq.io/your_username?template=classic&base.repositories=true)
+| Тип репозитория | Количество | Статус |
+| :--- | :---: | :--- |
+| 🌍 **Public** | `15` | Доступны всем |
+| 🔒 **Private** | `42` | Под замком |
+| 🏗 **In Progress** | `3` | В разработке |
+
 ### 🚀currently building:
 - automation platform for retailers: wiki
 - musical project for lefties: [leftly.xyz](https://leftly.xyz)
