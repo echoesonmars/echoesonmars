@@ -1,10 +1,6 @@
 # 👋privet
 >
-<div align="center">
-  <img src="https://img.shields.io/badge/открытых_проектов-15-2ea44f?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/приватных_репозиториев-8-grey?style=flat-square&logo=github-actions" />
-</div>
-
+![GitHub Metrics](https://metrics.lecoq.io/your_username?template=classic&base.repositories=true)
 ### 🚀currently building:
 - automation platform for retailers: wiki
 - musical project for lefties: [leftly.xyz](https://leftly.xyz)
