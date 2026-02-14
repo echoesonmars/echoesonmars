@@ -1,5 +1,5 @@
 # 👋privet
-> baba o riley
+> maube im amazed
 
 ### 🚀currently building:
 - automation platform for retailers: wiki
