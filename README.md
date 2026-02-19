@@ -1,5 +1,5 @@
 # 👋privet
-> maube im amazed
+> maybe im amazed
 
 ### 🚀currently building:
 - automation platform for retailers: wiki
