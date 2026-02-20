@@ -1,5 +1,5 @@
 # 👋privet
-> maybe im amazed
+> maybe i'm amazed
 
 ### 🚀currently building:
 - automation platform for retailers: wiki
