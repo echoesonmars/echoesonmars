@@ -30,8 +30,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echoesonmars&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?username=echoesonmars&theme=dark)](https://github-readme-tech-stack.vercel.app)
