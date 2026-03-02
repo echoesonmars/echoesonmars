@@ -1,6 +1,3 @@
-# 👋privet
-> maybe i'm amazed
-
 ### 🚀currently building:
 - automation platform for retailers: wiki
 - musical project for lefties: [leftly.xyz](https://leftly.xyz)
