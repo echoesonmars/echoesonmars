@@ -1,6 +1,2 @@
 ```markdown
-```json
-{
-  "learning": ["Rust", "AI"],
-  "status": "I love my projects"
-}
+> **`Learning Rust and AI | I love my projects`**
