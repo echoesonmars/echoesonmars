@@ -1,3 +1,2 @@
-```rust
-let learning = ["Rust", "AI"];
-let status = "I love my projects";
+```text
+"learning rust and ai. love my projects."
