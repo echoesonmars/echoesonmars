@@ -1,2 +1,2 @@
 ```text
-"learning rust and ai. love my projects."
+learning rust and ai. love my projects.
