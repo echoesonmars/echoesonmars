@@ -1,2 +1,3 @@
-```markdown
-> **`Learning Rust and AI | I love my projects`**
+```rust
+let learning = ["Rust", "AI"];
+let status = "I love my projects";
