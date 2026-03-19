@@ -1,7 +1,5 @@
-{
-  "learning": ["Rust", "AI"],
-  "status": "I love my projects"
-}
+let learning = ["Rust", "AI"];
+let status = "I love my projects";
 
 <!-- ### ⚙️stack:
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
