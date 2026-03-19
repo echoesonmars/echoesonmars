@@ -1,6 +1,9 @@
-let learning = ["Rust", "AI"];
-let status = "I love my projects";
-
+```markdown
+```json
+{
+  "learning": ["Rust", "AI"],
+  "status": "I love my projects"
+}
 <!-- ### ⚙️stack:
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
