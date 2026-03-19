@@ -1,6 +1,6 @@
-```bash
-> learning="Rust & AI"
-> echo "I love my projects"
-
-
-
+```markdown
+```json
+{
+  "learning": ["Rust", "AI"],
+  "status": "I love my projects"
+}
