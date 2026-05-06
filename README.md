@@ -1,2 +1,1 @@
-```json
 learning rust and ai. love my projects..
