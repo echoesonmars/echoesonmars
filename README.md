@@ -1,2 +1,2 @@
-`learning rust and ai. love my projects`<br>
+`learning rust and ml. love my projects`<br>
 [`alimzhan.xyz`](https://alimzhan.xyz) | [`sozlabs.com`](https://sozlabs.com)
