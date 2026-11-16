@@ -1,3 +1,3 @@
-`18yo, learning rust & ml.
-working on ai that mixes your songs in ableton`<br>
-[`alimzhan.xyz`](https://alimzhan.xyz) | building [`sozlabs`](https://sozlabs.com) with agent [`saya`](https://saya.sozlabs.com) | [`zhanel`](https://www.zhanel.app)
+`18yo. rust & ml.
+building zhanel: the ai mixing engineer.`<br>
+[`zhanel.app`](https://www.zhanel.app) | [`alimzhan.xyz`](https://alimzhan.xyz)
